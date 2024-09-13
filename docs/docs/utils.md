@@ -16,9 +16,9 @@ const OBS = new LINE_OBS(); // endpoint is optional
 
 const OBS_IMAGE_URI = OBS.getURI("0hy28TkoGoJh0FLTatCdtZSjt7ezN-Xj8PeFUrfHAvey8pHDUcMEppKXR-eisuFGJObRhheCh6KngqGzY"); // obs hash
 
-const OBS_PROFILE_IAMGE_URI = OBS.getProfileImage("u**********"); // member id (mid)
+const OBS_PROFILE_IMAGE_URI = OBS.getProfileImage("u**********"); // member id (mid)
 
-const OBS_SQUARE_PROFILE_IAMGE_URI = OBS.getSquareMemberImage("p**********"); // square member id (pid)
+const OBS_SQUARE_PROFILE_IMAGE_URI = OBS.getSquareMemberImage("p**********"); // square member id (pid)
 
 // and more
 ```
